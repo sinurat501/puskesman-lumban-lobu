@@ -1,0 +1,6 @@
+vendor/
+composer-setup.php
+*.log
+.env
+.DS_Store
+Thumbs.db
